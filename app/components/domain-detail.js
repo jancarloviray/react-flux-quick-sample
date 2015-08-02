@@ -33,7 +33,7 @@ class DomainDetailForm extends React.Component {
 
     render() {
         return (
-            <div ref="detailView" className="widget-container animated fadeInDown">
+            <div ref="detailView" className="widget-container align-left animated fadeInDown">
                 <form className="form-horizontal">
                     <div className="form-group">
                         <label for="inputEmail3"

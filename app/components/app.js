@@ -4,7 +4,7 @@ import Navbar from './navbar';
 
 class App extends React.Component {
     constructor(props) {
-        super(props)
+        super(props);
         // getInitialState() in es5
         this.state = {};
     }

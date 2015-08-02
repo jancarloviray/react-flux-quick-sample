@@ -214,7 +214,7 @@ var DomainDetailForm = (function (_React$Component) {
         value: function render() {
             return _react2['default'].createElement(
                 'div',
-                { ref: 'detailView', className: 'widget-container animated fadeInDown' },
+                { ref: 'detailView', className: 'widget-container align-left animated fadeInDown' },
                 _react2['default'].createElement(
                     'form',
                     { className: 'form-horizontal' },
